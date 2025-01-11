@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate data scientist from Canada</h3>
 
-- 👀 I’m interested in **Web Development, Data Analysis, Machine Learning & AI, Digital Marketing, and Ecommerce!**
+- 👀 I’m interested in **Data Analysis, Machine Learning & AI, and Ecommerce!**
 
-- 🌱 I’m currently learning **MLOps, Algorithmic Trading, Cloud Computing, Big Data Analytics, and much more!**
+- 🌱 I’m currently learning **Product Analytics, Big Data Analytics, MLOps, Algorithmic Trading, and much more!**
 - 💞️ I’m looking to collaborate and network with everyone!
 - 📫 You can reach me on any of my social links or email!
 
