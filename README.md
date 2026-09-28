@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate data scientist from Canada</h3>
+<h3 align="center">Data scientist</h3>
 
 - 👀 I’m interested in **Software Engineering, Data Analysis, Machine Learning & AI!**
 
